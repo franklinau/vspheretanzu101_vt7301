@@ -1,5 +1,5 @@
 testName: test1
-Question1:
-Question2:
-Question3:
-Question4:
+Question1: e: All of the above
+Question2: c: is the best way to run Kubernetes at scale.
+Question3: b: is the fastest way to get started with Kubernetes workloads.  c: provides full stack IaaS stack at scale.  d: is the best way to run Kubernetes workloads at scale.
+Question4: a: Manage cost in the cloud  b: Deliver Developer Ready Infrastructure  c: Align DevOps and IT
